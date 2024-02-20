@@ -73,11 +73,10 @@ I'm Rohit Mahato!
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?logo=visual-studio-code&logoColor=white"></a>
 </p>
 
----
+<h2>👀 Stats</h2>
 
-## 📊 Stats
-
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 22 2021</b>
+<div>
+  [![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 22 2021</b>
 
 📊 <b>This Week I Spent My Time On</b>
 
@@ -95,16 +94,6 @@ XML          2 mins          ░░░░░░░░░░░░░░░░░
 <details>
   <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
   <br/>
-
-  <p>
-  <img src="https://activity-graph.herokuapp.com/graph?username=AswinBarath&theme=react-dark&bg_color=20232a&hide_border=true" width=100%" />
-  </p>
-
-
-<h2>👀 Stats</h2>
-
-<div>
-
   
   <p align="center">
   <b><em>GitHub Stats:</em></b> <br/>
