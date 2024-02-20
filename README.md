@@ -78,7 +78,7 @@ I'm Rohit Mahato!
   </p>
 </div>
 <div>
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 22 2024</b>
+[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 22 2021</b>
 
 📊 <b>This Week I Spent My Time On</b>
 
@@ -91,6 +91,7 @@ CSS          3 mins          ░░░░░░░░░░░░░░░░░
 XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
+<details/>
 
 <h2> About Rohit Mahato⚡:</h2>
 
