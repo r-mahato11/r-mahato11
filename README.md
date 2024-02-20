@@ -68,30 +68,8 @@ I'm Rohit Mahato!
 </p>
 
 <h2>👀 Stats</h2>
-<details>
-  <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
-  <br/>
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-mahato11" alt="GitHub Stats" /> <br/><br/>
-  </p>
-</div>
-<div>
-[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 22 2021</b>
 
-📊 <b>This Week I Spent My Time On</b>
 
-<!--START_SECTION:waka-->
-```text
-HTML         5 hrs 3 mins    ███████████▒░░░░░░░░░░░░░   44.70 % 
-Java         4 hrs 35 mins   ██████████░░░░░░░░░░░░░░░   40.59 % 
-JavaScript   1 hr 34 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.85 % 
-CSS          3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 % 
-XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
-```
-<!--END_SECTION:waka-->
-<details/>
 
 <h2> About Rohit Mahato⚡:</h2>
 
@@ -103,4 +81,5 @@ I'm a Purusing Graduation Student at GS Moze College of Engineering at Pune, Mah
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:ConnectWith@r-mahato11.com">![ConnectWith@r-mahato11.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/r-mahato11/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:ConnectWith@r-mahato11.com">![ConnectWith@r-mahato11.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/r-mahato11/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
