@@ -81,5 +81,5 @@ I'm a Purusing Graduation Student at GS Moze College of Engineering at Pune, Mah
 
 <h2>📫 How to reach me:</h2>
 
-<a href="mailto:ConnectWith@r-mahato11.com">![ConnectWith@r-mahato11.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/r-mahato11/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5style=for-the-badge&logo=linkedin&logoColor=white)</a>
+<a href="mailto:ConnectWith@r-mahato11.com">![ConnectWith@r-mahato11.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://www.linkedin.com/in/r-mahato11/">![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
