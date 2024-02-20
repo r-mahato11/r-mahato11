@@ -1,4 +1,4 @@
-![Rohit Mahato Banner Image](./banner.png)
+![Rohit Mahato Banner Image](./Banner.png)
 <!-- <h2 align='center'>Rohit Mahato @ r-mahato11
 </h2>
 <p align='center'><b>Purusing Graduation Student at GS Moze College of Engineering at Pune</b></p> -->
