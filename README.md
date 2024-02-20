@@ -74,9 +74,17 @@ I'm Rohit Mahato!
 </p>
 
 <h2>👀 Stats</h2>
-
+<details>
+  <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
+  <br/>
+  
+  <p align="center">
+  <b><em>GitHub Stats:</em></b> <br/>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-mahato11" alt="GitHub Stats" /> <br/><br/>
+  </p>
+</div>
 <div>
-  [![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 22 2021</b>
+[![wakatime](https://wakatime.com/badge/user/0f3d8544-3446-40bb-987d-b1a8ed7d2cff.svg)](https://wakatime.com/@0f3d8544-3446-40bb-987d-b1a8ed7d2cff) <b>&nbsp; coded, since JAN 22 2024</b>
 
 📊 <b>This Week I Spent My Time On</b>
 
@@ -89,19 +97,6 @@ CSS          3 mins          ░░░░░░░░░░░░░░░░░
 XML          2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
 ```
 <!--END_SECTION:waka-->
-
-
-<details>
-  <summary>&nbsp;&nbsp;<b>🔥 GitHub Contributions Streak</summary>
-  <br/>
-  
-  <p align="center">
-  <b><em>GitHub Stats:</em></b> <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=r-mahato11" alt="GitHub Stats" /> <br/><br/>
-  <b><em>Programming activity (Last 7 days):</em></b> <br/>
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=r-mahato11" alt="WakaTime" />
-  </p>
-</div>
 
 <h2> About Rohit Mahato⚡:</h2>
 
