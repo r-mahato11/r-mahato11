@@ -75,7 +75,7 @@ I'm Rohit Mahato!
 
 I'm a Purusing Graduation Student at GS Moze College of Engineering at Pune, Maharashtra. Outside Tech, I love to read, enjoy music and explore nature outdoors. If you are around Pune, drop an email and let's catch-up over Coffee!
  
-- Check out my Blog: [https://r-mahato11.com](https://r-mahato11.com)
+- Check out my Blog: [https://www.quora.com/profile/Rohit-Mahato-155](https://www.quora.com/profile/Rohit-Mahato-155)
 - Know more about me: [About r-mahato11](https://r-mahato11.com/pages/about)
 - Write to me: [ConnectWith@r-mahato11.com](mailto:ConnectWith@r-mahato11.com)
 
